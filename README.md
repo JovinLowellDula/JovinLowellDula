@@ -13,9 +13,9 @@
 Become An OCI Foundations Associate (2025):                                            
 | https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999 | Dec,5,2025 |               
  Become an Oracle Data Platform Foundations Associate:                                                   
-| https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD | Dec,9,2025 |
+| https://catalog-education.oracle.com/pls/certview/sharebadge?id=9BB9C88B37BE2468C3D05750200D5FD38F969A9D466C853DB823567E9B8ABABD | Dec,9,2025 |                    
 Become An OCI AI Foundations Associate (2025):                                                           
-| https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01 | Dec,9,2025 |
+| https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01 | Dec,9,2025 |              
 
 **Skillsets:**                                           
 | Programming Languages: Java, SQL, HTML, CSS) |                                        

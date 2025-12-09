@@ -7,8 +7,8 @@
 | High School| Metro Manila College | 2018-2024 |
 | Elementary| Krus Na Ligas Elementary school | 2017-2018 |
 
-**Certifications:** 
-
+**Certifications:**                
+SQL and Relational Databases 101:          
 | https://courses.cognitiveclass.ai/certificates/81531b12f6ed40859f0f8b60c3ac5a3e | Nov,26,2025 |   
 Become An OCI Foundations Associate (2025):                                            
 | https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7AC368FBAC2E09DB2DA334A0DC8A8EFD85C4BC4D4ED8F839888BCF1F9431999 | Dec,5,2025 |               

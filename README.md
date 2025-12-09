@@ -15,7 +15,7 @@
 | https://catalog-education.oracle.com/pls/certview/sharebadge?id=B6577CACF0E60D194E5591F924C3F848A12F6A2DEEB8E24E1390200EA1739B01 | Dec,9,2025 |
 
 **Skillsets:** 
-| Programming Languages: Java, SQL, HTML, CSS) |
-| Databases: IBM DB2 Cloud |
-| Frameworks & Tools: Lucidchart, Canva Education |
+| Programming Languages: Java, SQL, HTML, CSS) |                                        
+| Databases: IBM DB2 Cloud |                                                             
+| Frameworks & Tools: Lucidchart, Canva Education |                                                              
 | DevTools: Visual Studio Code, Microsoft Office |
